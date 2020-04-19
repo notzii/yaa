@@ -1,3 +1,3 @@
 # NOTZII
 
-
+> make private
